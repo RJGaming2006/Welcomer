@@ -1,2 +1,3 @@
 # Welcomer
-Sends a message when you join.
+Plugin created for my server OrixMC.
+Sends a message once joining the server.
