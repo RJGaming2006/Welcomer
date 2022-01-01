@@ -1,0 +1,5 @@
+name: Welcomer
+author: RJGAMING
+main: RJ\Wlc\main
+version: 1.0.0
+api: "4.0.0"
